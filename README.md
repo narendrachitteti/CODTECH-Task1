@@ -1,9 +1,9 @@
-**Name:** NARENDRA CHITTETI
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08JP465
-**Domain:** Java Programming
-**Duration:** May to June 2024
-**Mentor:** SRAVANI GOUNI
+- **Name:** NARENDRA CHITTETI
+- **Company:** CODTECH IT SOLUTIONS
+- **ID:** CT08JP465
+- **Domain:** Java Programming
+- **Duration:** May to June 2024
+- **Mentor:** SRAVANI GOUNI
 
 ## Overview of the project
 
