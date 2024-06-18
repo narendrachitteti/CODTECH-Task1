@@ -22,3 +22,4 @@ The objective of this project is to create a simple command-line calculator in J
 - **Programming Language**: Java
 - **Development Environment**: Any Java development environment (e.g., IntelliJ IDEA, Eclipse, or a simple text editor with command-line tools)
 - **Libraries**: No external libraries are required. The program uses the Scanner class from the Java Standard Library for user input.
+![Task 1](https://github.com/narendrachitteti/CODTECH-Task1/assets/122769756/3606d36b-1ecd-4b3d-9246-eae06398f14d)
